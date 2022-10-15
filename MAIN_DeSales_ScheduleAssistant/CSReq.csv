@@ -1,0 +1,9 @@
+Course Number,Course Title,Pre-reqs,CS-General,Game Programming,Cyber Security,Data Science
+CS-105,Introduction to Computer Applications,None,,,,
+CS-111,Introduction to Logic and Programming,None,,,,
+CS-115,Introduction to Python,None,X,X,X,X
+CS-222,Data Structures,CS211,X,X,X,X
+CS-230,Computer Architecture and Hardware Support,None,X,X,X,X
+CS-260,Database and Data Visualization,None,X,X,X,X
+CS-321,Communication and Networking,CS115,X,,X,
+CS-333,Mobile Application Development,CS211 and CS260,,X,,
